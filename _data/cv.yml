@@ -45,36 +45,36 @@
 
 
 
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Florian König
-    - name: Title
-      value: Dr.-Ing.
-    - name: Languages
-      value: English, German
+# - title: General Information
+  # type: map
+  # contents:
+    # - name: Full Name
+      # value: Florian König
+    # - name: Title
+      # value: Dr.-Ing.
+    # - name: Languages
+      # value: English, German
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: RWTH Aachen Universit, Aachen, Germany
-      year: 2020
-      description:
-        - Prognose des Verschleißverhaltens ölgeschmierter Gleitlager im Mischreibungsbetrieb
-        - Wear prediction of plain bearings under mixed friction conditions
+# - title: Education
+  # type: time_table
+  # contents:
+    # - title: PhD
+      # institution: RWTH Aachen Universit, Aachen, Germany
+      # year: 2020
+      # description:
+        # - Prognose des Verschleißverhaltens ölgeschmierter Gleitlager im Mischreibungsbetrieb
+        # - Wear prediction of plain bearings under mixed friction conditions
 
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Master of Science
-      institution: RWTH Aachen Universit, Aachen, Germany
-      year: 2014
-      description:
-        - Description 1.
-        - Description 2.
+        # - title: Description 3.
+          # contents:
+            # - Sub-description 1.
+            # - Sub-description 2.
+    # - title: Master of Science
+      # institution: RWTH Aachen Universit, Aachen, Germany
+      # year: 2014
+      # description:
+        # - Description 1.
+        # - Description 2.
 
 # - title: Experience
   # type: time_table
