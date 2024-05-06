@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Dr.-Ing. # from <a href='www.rwth-aachen.de'>RWTH Aachen University</a>. 
+subtitle: Dr.-Ing. RWTH Aachen University</a>. 
 
 profile:
   align: right
