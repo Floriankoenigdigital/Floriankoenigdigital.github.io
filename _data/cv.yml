@@ -3,6 +3,53 @@
   contents:
     - name: Full Name
       value: Florian König
+    - name: Languages
+      value: English, German <em>native</em>, French <em>basic</em>
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Head of department <em> Tribology </em>
+      institution: RWTH Aachen University, Germany
+      year: 2021 - present
+    - title: Team leader <em> Journal bearings </em>
+      institution: RWTH Aachen University, Germany
+      year: 2017 - 2020  
+    - title: Research engineer
+      institution: RWTH Aachen University, Germany
+      year: 2015 - 2027
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: RWTH Aachen University, Germany
+      year: 2020
+    - title: M.Sc. RWTH
+      institution: RWTH Aachen University, Germany
+      year: 2014
+    - title: B.Sc. RWTH
+      institution: RWTH Aachen University, Germany
+      year: 20012
+    - title: Graduation
+      institution: Gymnasium
+      year: 2008  
+    - title: Graduation
+      institution: Cedar Falls High School, IA, United States
+      year: 2006
+
+
+
+
+
+
+
+
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Florian König
     - name: Title
       value: Dr.-Ing.
     - name: Languages
